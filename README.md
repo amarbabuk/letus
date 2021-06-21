@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=FmgdHGFYj3U
+https://redislabs.com/blog/build-on-redis-hackathon-winners/
+
 ![Letus Splash](https://github.com/withjam/letus/raw/main/screens/letus_cropped.jpg)
 
 |||
